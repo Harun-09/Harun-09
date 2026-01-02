@@ -38,8 +38,7 @@ AI-Assisted Dev Tools: Cursor AI, Windsurf, Github Co-Pilot etc.
 
 | Project | Description | Tech Used | Live | Repo |
 |---------|-------------|-----------|------|------|
-| Procurement management system |A comprehensive Tender & Procurement Management System designed to manage tender creation, vendor bidding, evaluation, approval workflows, and procurement tracking with role-based access control.
-| Laravel, MySQL | [Live] Continue... | [Repo](https://github.com/Harun-09/Lr_Pr_TPMS) |
+| Procurement management system |A comprehensive Tender & Procurement Management System designed to manage tender creation, vendor bidding, evaluation, approval workflows, and procurement tracking with role-based access control.| Laravel, MySQL | [Live] Continue... | [Repo](https://github.com/Harun-09/Lr_Pr_TPMS) |
 | Personal Portfolio | Interactive React portfolio | React | [Live](https://harun.intelsofts.com) | [Repo](https://github.com/Harun-09/) |
 | Shohoz Clone | Ride-sharing UI clone | HTML, CSS, JS | [Live](https://shohoz-project.netlify.app/) | [Repo](https://github.com/Harun-09/shohoz-clone) |
 
