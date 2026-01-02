@@ -8,8 +8,8 @@
 
 
 
-💻 Currently working on **Trade Ledger System** and other Full Stack projects.  
-🌱 Learning **Advanced PHP, Laravel, MySQL** for full-stack development.  
+💻 Currently working on **Tender and Procurement Management System** by Laravel backend and Vue.js Frontend with other Full Stack projects.  
+🌱 Learning **Advanced PHP, React, Laravel, MySQL** for full-stack development.  
 👯 Open to collaborate on React, Laravel, Vue.js web projects.  
 🤝 Interested in building **scalable, high-performance web applications**.
 
@@ -20,13 +20,15 @@
 <details>
 <summary>Click to expand Tech Stack</summary>
 
-**Languages:** JavaScript, PHP, Python  
-**Frontend:** HTML5, CSS3, React, Next.js, Bootstrap, TailwindCSS, Material UI  
-**Backend:** Node.js, Express.js, Laravel, Django  
-**Databases:** MySQL, MongoDB, PostgreSQL, Oracle  
-**APIs & Auth:** RESTful APIs, JWT, Firebase Authentication, GraphQL  
+**Languages:** JavaScript, PHP, next i will include Python too.
+**Frontend:** HTML5, CSS3, React, Bootstrap, TailwindCSS, Basic knowledege of WordPress, Vue.js continue.  
+**Backend:** Php, React, Laravel.  
+**Databases:** I primarily work with MySQL. Database fundamentals are the same—tables/collections, relations, indexing, CRUD operations, joins, normalization.
+I can quickly adapt to PostgreSQL or MongoDB based on project requirements.”
+**APIs & Auth:** RESTful APIs, JWT, Firebase Authentication.  
 **Version Control:** Git & GitHub  
 **IDEs / Tools:** VS Code, Postman, Figma  
+AI-Assisted Dev Tools: Cursor AI, Windsurf, Github Co-Pilot etc.
 
 </details>
 
@@ -36,8 +38,9 @@
 
 | Project | Description | Tech Used | Live | Repo |
 |---------|-------------|-----------|------|------|
-| Trade Ledger System | Procurement management system | React, Laravel, MySQL | [Live](https://harun.intelsofts.com) | [Repo](https://github.com/Harun-09/TradeLedger) |
-| Personal Portfolio | Interactive React portfolio | React, SCSS | [Live](https://harun.intelsofts.com) | [Repo](https://github.com/Harun-09/developerfolio) |
+| Procurement management system | |A comprehensive Tender & Procurement Management System designed to manage tender creation, vendor bidding, evaluation, approval workflows, and procurement tracking with role-based access control.
+| Laravel, MySQL | [Live] Continue... | [Repo](https://github.com/Harun-09/Lr_Pr_TPMS) |
+| Personal Portfolio | Interactive React portfolio | React | [Live](https://harun.intelsofts.com) | [Repo](https://github.com/Harun-09/) |
 | Shohoz Clone | Ride-sharing UI clone | HTML, CSS, JS | [Live](https://shohoz-project.netlify.app/) | [Repo](https://github.com/Harun-09/shohoz-clone) |
 
 ---
@@ -48,8 +51,7 @@
 <summary>Click to expand</summary>
 
 - Advanced JavaScript (ES6+)  
-- PHP & Laravel Framework (OOP & MVC)  
-- Data Structures & Algorithms  
+- Laravel Framework  
 - Vue.js Frontend Framework  
 
 </details>
@@ -65,8 +67,8 @@
 
 ## 📫 Contact Me
 
-- **Email:** harun@example.com  
-- **LinkedIn:** [https://www.linkedin.com/in/harun-or-rashid/](https://www.linkedin.com/in/harun-or-rashid/)  
+- **Email:** md.harun.sk09@gmail.com  
+- **LinkedIn:** ([https://www.linkedin.com/in/harun-or-rashid](https://www.linkedin.com/in/md-harun-or-rashid-9387232a1)/)  
 - **Portfolio:** [https://harun.intelsofts.com](https://harun.intelsofts.com)  
 - **GitHub:** [https://github.com/Harun-09](https://github.com/Harun-09)  
 
@@ -84,7 +86,6 @@ I love learning **something new every day!** 😎
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
