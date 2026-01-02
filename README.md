@@ -1,6 +1,11 @@
 # 👋 Hi, I’m Md. Harun-or-Rashid
 
+<p align="center">
+  <img src="harun.jpg" width="180" style="border-radius:50%;" />
+</p>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&width=600&lines=A+Passionate+Full+Stack+Developer+From+Bangladesh+%7C+Frontend+%26+Backend+%7C+React+%26+Laravel)
+
 
 💻 Currently working on **Trade Ledger System** and other Full Stack projects.  
 🌱 Learning **Advanced PHP, Laravel, MySQL** for full-stack development.  
