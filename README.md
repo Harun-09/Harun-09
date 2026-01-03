@@ -1,8 +1,12 @@
 # 👋 Hi, I’m Md. Harun-or-Rashid
 ### Full Stack Web Developer | Laravel & React Specialist
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&width=900&lines=Building+Scalable+Web+Applications;Laravel+Backend+%2B+React/Vue+Frontend;IsDB-BISEW+IT+Scholar+Expert;MBA+Graduate+with+a+Tech+Mindset" alt="Typing SVG" />
+<p align="center">
+  <img src="harun_professional.png" width="180" height="180" style="border-radius:50%; border: 3px solid #00F0FF;" alt="Md. Harun-or-Rashid" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;Laravel+Backend+%2B+React/Vue+Frontend;IsDB-BISEW+IT+Scholar+Expert;MBA+Graduate+with+a+Tech+Mindset" alt="Typing SVG" />
 </p>
 
 ---
@@ -32,12 +36,6 @@ I am a results-driven **Full Stack Web Developer** currently serving as a **Juni
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🧰 Dev Tools & Architecture
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-**Methodologies:** OOP, MVC, Repository Pattern, RESTful APIs.
 
 ---
 
