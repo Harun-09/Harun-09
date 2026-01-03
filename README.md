@@ -50,13 +50,13 @@ I am a results-driven **Full Stack Web Developer** currently serving as a **Juni
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harun-09&show_icons=true&theme=radical&rank_icon=github" alt="Harun-09 GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harun-09&layout=compact&theme=radical" alt="Top Langs" />
-</p>
 
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harun-09&theme=radical&hide_border=false" alt="GitHub Streak" />
+
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harun-09&theme=radical" alt="Top Languages" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harun-09&theme=radical" alt="Stats Card" /> </p>
 ---
 
 ## 💼 Professional Experience
