@@ -2,7 +2,7 @@
 ### Full Stack Web Developer | Laravel & React Specialist
 
 <p align="center">
-  <img src="harun_professional.png" width="180" height="180" style="border-radius:50%; border: 3px solid #00F0FF;" alt="Md. Harun-or-Rashid" />
+  <img src="harun.png" width="180" height="180" style="border-radius:50%; border: 3px solid #00F0FF;" alt="Md. Harun-or-Rashid" />
 </p>
 
 <p align="center">
