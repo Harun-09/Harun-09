@@ -52,7 +52,7 @@ I am a results-driven **Full Stack Web Developer** currently serving as a **Juni
 
 
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harun-09&theme=radical&hide_border=false" alt="GitHub Streak" />
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harun-09&theme=radical" alt="GitHub Stats" width="100%" /> </p>
 
 
 
