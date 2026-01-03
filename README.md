@@ -46,7 +46,7 @@ I am a results-driven **Full Stack Web Developer** currently serving as a **Juni
 | **Tender & Procurement System** | Role-based access, bidding workflows, evaluation tracking. | Laravel, MySQL, jQuery | [Live](http://harun.intelsofts.com) |
 | **API-Based Production System** | Headless architecture, complex reporting, inventory logic. | React, PHP, MySQL | [Repo](https://github.com/Harun-09/) |
 | **Personal Portfolio** | Fully responsive, dynamic project showcase. | React.js | [Live](http://harun.intelsofts.com) |
-| **Ride-Sharing UI** | High-fidelity clone with modern CSS techniques. | HTML, CSS, JS | [Live](https://shohoz-project.netlify.app/) |
+| **Nasa Website** | High-fidelity clone with modern CSS techniques. | HTML, CSS, JS | [Live](http://harun.intelsofts.com) |
 
 ---
 
