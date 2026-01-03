@@ -29,12 +29,12 @@ I am a results-driven **Full Stack Web Developer** currently serving as a **Juni
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend & Database
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
@@ -50,10 +50,11 @@ I am a results-driven **Full Stack Web Developer** currently serving as a **Juni
 
 ---
 
-## 📈 My GitHub Growth
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harun-09&show_icons=true&theme=radical&rank_icon=github" alt="Harun's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harun-09&layout=compact&theme=radical" alt="Top Langs" width="43%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harun-09&show_icons=true&theme=radical&rank_icon=github" alt="Harun-09 GitHub stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harun-09&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
@@ -76,6 +77,5 @@ I am a results-driven **Full Stack Web Developer** currently serving as a **Juni
 
 ---
 <p align="center">
-  <i>"I don't just write code; I build solutions that drive business value."</i><br>
-  <img src="https://profile-counter.glitch.me/Harun-09/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Harun-09&label=Profile%20Views&color=00F0FF&style=flat" alt="Visitor Count" />
 </p>
