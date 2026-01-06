@@ -43,10 +43,11 @@ I am a results-driven **Full Stack Web Developer** currently serving as a **Juni
 
 | Project Name | Key Features | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Tender & Procurement System** | Role-based access, bidding workflows, evaluation tracking. | Laravel, MySQL, jQuery | [Live](http://harun.intelsofts.com) |
-| **API-Based Production System** | Headless architecture, complex reporting, inventory logic. | React, PHP, MySQL | [Repo](https://github.com/Harun-09/) |
+| **Tender & Procurement System** | Role-based access, bidding workflows, evaluation tracking. | Laravel, MySQL, jQuery | [continue....not finished ](http://harun.intelsofts.com/laravel) |
+| **API-Based Production System** | Headless architecture, complex reporting, inventory logic. | React, PHP, MySQL | [Live](http://harun.intelsofts.com/react) |
+|  **Production Management System** |	Production, QC, Inventory, Order, Reports. | Raw PHP, MySQL, jQuery, JavaScript | [Live](http://harun.intelsofts.com/php) |
 | **Personal Portfolio** | Fully responsive, dynamic project showcase. | React.js | [Live](http://harun.intelsofts.com) |
-| **Nasa Website** | High-fidelity clone with modern CSS techniques. | HTML, CSS, JS | [Live](http://harun.intelsofts.com) |
+| **Nasa Website** | High-fidelity clone with modern CSS techniques. | HTML, CSS, JS | [Live](http://harun.intelsofts.com/html) |
 
 ---
 
